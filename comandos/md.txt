@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-MD (Make Directory) sirve para crear
-=======
+
 MD (Make Directory) sirve para crear un nuevo directorio
 sdffffafssssssssssssssssssssssss
-dffffffffffffffffffffff
->>>>>>> Servidor
+"Merge con conflictos"
