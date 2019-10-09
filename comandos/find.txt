@@ -1,1 +1,1 @@
-l comando más común utilizado para encontrar y filtrar archivos en Linux es a través del comando find. 
+l comando más común utilizado para encontrar y filtrar archivos en Linux es 
