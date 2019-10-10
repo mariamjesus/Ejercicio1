@@ -3,5 +3,4 @@ l comando más común utilizado para encontrar y filtrar archivos en Linux es a tr
 asdfdsfdsfdsfdsfds
 sdfsdfsdfdsfsdf
 sdfsdfdsf
-jk
 "Merge con conflictos"
